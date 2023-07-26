@@ -1,8 +1,8 @@
 <header>
-    <div class="container-fluid bg-black py-5">
+    <div class="container-fluid bg-primary py-5">
         <div class="row">
             <div class="col-12 text-center text-white">
-                <h1>LARAVEL-MODEL-CONTROLLER</h1>
+                <h1>DC COMICS</h1>
             </div>
         </div>
     </div>
